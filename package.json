@@ -1,10 +1,9 @@
 {
   "name": "warp-project",
   "main": "./lib/warp-project",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Utilize zsh warp-directory file to open projects. Reads ~/.warprc as available warps.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "warp-project:toggle"
   },
