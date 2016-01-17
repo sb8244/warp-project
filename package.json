@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "warp-project:toggle"
   },
-  "repository": "https://github.com/atom/warp-project",
+  "repository": "https://github.com/sb8244/warp-project",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
