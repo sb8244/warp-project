@@ -1,0 +1,19 @@
+{
+  "name": "warp-project",
+  "main": "./lib/warp-project",
+  "version": "0.0.0",
+  "description": "Utilize zsh warp-directory file to open projects",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "warp-project:toggle"
+  },
+  "repository": "https://github.com/atom/warp-project",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "@aki77/atom-input-dialog": "latest"
+  }
+}
